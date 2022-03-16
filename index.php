@@ -21,7 +21,7 @@
 					<form id='form'>
 						
 						<div class="form-group">
-							<label for="name">Name:</label>
+							<label for="name">Your Name:</label>
 							<input class="form-control" type="name" name="name" id="name">
 						</div>
 						<div class="form-group">
